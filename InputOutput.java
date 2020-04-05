@@ -8,4 +8,4 @@ public class InputOutput{
   nama = scanner.nextLine();
 
  }
-} d
+} 
